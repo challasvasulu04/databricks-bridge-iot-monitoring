@@ -63,3 +63,4 @@ logs/
 *.json
 *.parquet
 data/
+iotenv/
